@@ -4,8 +4,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="[https://github.com/github_username/repo_name](https://github.com/nazfp/best-burgers-foodpanda)">
+    <img src="images/burger-icon.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">BestBurgers.</h3>
