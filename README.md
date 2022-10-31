@@ -1,6 +1,6 @@
 # best-burgers-foodpanda
 
-
+<a name="readme-top"></a>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -11,12 +11,12 @@
 <h3 align="center">BestBurgers.</h3>
 
   <p align="center">
-    project_description
+    A simple website dedicated to the best burger recipes in town!
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="[https://github.com/github_username/repo_name](https://nazfp.github.io/best-burgers-foodpanda/)">View Demo</a>
+    <a href="https://nazfp.github.io/best-burgers-foodpanda/">View Demo</a>
   </p>
 </div>
 
@@ -49,7 +49,7 @@
 
 ### Built With
 
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* ![Bootstrap][Bootstrap.com]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,3 +64,7 @@ Your Name - Naz
 Project Link: https://github.com/nazfp/best-burgers-foodpanda
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Markdown Links and Images -->
+
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
