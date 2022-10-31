@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/github_username/repo_name](https://github.com/nazfp/best-burgers-foodpanda)">
-    <img src="images/burger-icon.jpg" alt="Logo" width="80" height="80">
+    <img src="images/burger-icon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">BestBurgers.</h3>
@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[Project Site](https://nazfp.github.io/best-burgers-foodpanda/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
